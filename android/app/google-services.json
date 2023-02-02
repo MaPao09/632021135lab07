@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "365909934421",
+    "project_id": "mobileapp124",
+    "storage_bucket": "mobileapp124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365909934421:android:366653050af88b44356fdc",
+        "android_client_info": {
+          "package_name": "com.example.lab06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365909934421-e9j0ein23sp2v97lv8n777nmsh8j261s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDScCHrTer1G-Q0JPi4lRBRSKb57hNRHFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365909934421-dk0pehgd01uulhrkhg4hoi3ee7uj1ohu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365909934421-d95uu03v9eheilukgqsammf8t3naako4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab06"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365909934421:android:d6af5f1377e16a73356fdc",
+        "android_client_info": {
+          "package_name": "com.example.lab07google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365909934421-e9j0ein23sp2v97lv8n777nmsh8j261s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDScCHrTer1G-Q0JPi4lRBRSKb57hNRHFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365909934421-dk0pehgd01uulhrkhg4hoi3ee7uj1ohu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365909934421-d95uu03v9eheilukgqsammf8t3naako4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab06"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
